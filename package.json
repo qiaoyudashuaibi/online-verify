@@ -1,0 +1,19 @@
+{
+  "name": "verify",
+  "version": "0.1.0",
+  "description": "验证码",
+  "main": "js/verify.js",
+  "license": "MIT",
+  "repository": {
+    "type": "https",
+    "url": ""
+  },
+  "author": "乔宇",
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "jquery": ">=1.5"
+	}
+}
